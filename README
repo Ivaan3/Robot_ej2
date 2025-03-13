@@ -25,3 +25,6 @@ El flujo de trabajo se puede dividir en los siguientes pasos:
 5. Conclusión
 Este robot permite automatizar la clasificación de clientes según su condición frente al IVA, mejorando la eficiencia del proceso y evitando posibles
 errores humanos. El uso del archivo .ini proporciona flexibilidad, permitiendo cambiar configuraciones sin modificar el código del robot.
+
+Video de documentación
+https://drive.google.com/file/d/16e77RTheFh1InjoCluub7I5NeEJMZ9pl/view?usp=drive_link
