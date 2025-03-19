@@ -1,0 +1,1 @@
+# Recopilacion_infoRecopila archivos de la pc para enviar por email
