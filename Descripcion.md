@@ -1,4 +1,4 @@
-1. Descripción del Proyecto
+1. Descripción del Proyecto (Ejercicio n° 2)
 
 Este proyecto consiste en la creación de un robot que procesa un archivo Excel con información de clientes y su condición frente al IVA
 (por ejemplo, "Responsable Inscripto", "Exento", "No Responsable", etc.). El robot toma esta información y discrimina a los clientes en
